@@ -9,7 +9,8 @@
     ],
     "autoload":{
         "psr-0":{
-            "Vnext_": "Library/"
+            "Vnext_": "Library/",
+	    "VnextX_": "exlib/"
         }
     },
     "require": {}
