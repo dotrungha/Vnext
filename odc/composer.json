@@ -1,0 +1,16 @@
+{
+    "name": "vnext/odc",
+    "type": "library",
+    "authors": [
+        {
+            "name": "dotrungha",
+            "email": "dotrungha1994@gmail.com"
+        }
+    ],
+    "autoload":{
+        "psr-0":{
+            "Vnext_": "Library/"
+        }
+    },
+    "require": {}
+}
